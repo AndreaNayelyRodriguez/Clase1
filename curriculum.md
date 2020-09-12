@@ -6,7 +6,7 @@
 
 <br/>
 
-###Información
+### Información
 
 Campo | Descripción 
 --- | ---
@@ -20,7 +20,7 @@ Celular | 33 35526465
 
 <br/>
 
-###Estudios
+### Estudios
 
 - Centro Escolar Torreblanca (2004-2016)
 - “Ingeniería Industrial  e Innovación de 
@@ -35,7 +35,7 @@ en Alemania. (semestre de invierno 2018-
 
 <br/>
 
-###Experiencia
+### Experiencia
 
 - Intern Planeación en Plexus (mayo 2020-presente)
 - Tesorera de la Sociedad de Alumnas del 
@@ -69,7 +69,7 @@ FluidSIM, Plexim, IOR y AutoCad.
 
 <br/>
 
-###Idiomas
+### Idiomas
 
 - Español (lengua materna)
 - Inglés (avanzado)
@@ -80,7 +80,7 @@ básico)
 
 <br/>
 
-###Intereses
+### Intereses
 
 - Tae Kwon Do (3er Dan por 
 Kukkiwon)
