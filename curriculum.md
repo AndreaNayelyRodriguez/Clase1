@@ -56,7 +56,7 @@ en Julius Maximilians Universität Würzburg.
 
 <br/>
 
-###Informática
+### Informática
 
 - Curso avanzado de Excel por Timer S de 
 RL de CV.
